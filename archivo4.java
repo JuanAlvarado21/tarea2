@@ -11,7 +11,7 @@ public class Arreglos {
     int numero, indice;
     int arreglo[]=new int [15];
     indice=arreglo.length-1;
-        System.out.println(Ingresar cadena: );
+        System.out.println(Ingresar cadena: HOLA MI NOMBRE ES FABIAN );
         cadena=leer.next();
         numero=Integer.parseInt(cadena);
                 
